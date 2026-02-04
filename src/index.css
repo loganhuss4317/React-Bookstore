@@ -58,7 +58,7 @@ li {
 
 h1 {
   font-size: 56px;
-  color: #7342d6;
+  color: #242424;
   margin-bottom: 24px;
   text-align: center;
 }
@@ -109,7 +109,7 @@ button:active {
   font-size: 20px;
   font-weight: bold;
   padding: 8px;
-  color: #7342d6;
+  color: #242424;
 }
 
 .nav__list {
@@ -124,7 +124,7 @@ button:active {
 }
 
 .nav__link--primary {
-  border: 2px solid #7342d6;
+  border: 2px solid #242424;
   border-radius: 4px;
 }
 
@@ -136,7 +136,7 @@ button:active {
   display: flex;
   align-items: center;
   justify-content: center;
-  color: #7342d6;
+  color: #242424;
   font-size: 20px;
   position: relative;
   margin-left: 8px;
